@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLKit.Maui.TextRecognition", "MLKit.Maui.TextRecognition\MLKit.Maui.TextRecognition.csproj", "{500BC79C-9581-4772-9B4F-A60377C8404D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{500BC79C-9581-4772-9B4F-A60377C8404D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500BC79C-9581-4772-9B4F-A60377C8404D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500BC79C-9581-4772-9B4F-A60377C8404D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500BC79C-9581-4772-9B4F-A60377C8404D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8450632-35EB-4383-B42F-651DE84CE0A2}
+	EndGlobalSection
+EndGlobal
