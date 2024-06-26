@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MLKit.Maui.TextRecognition", "MLKit.Maui.TextRecognition\MLKit.Maui.TextRecognition.csproj", "{500BC79C-9581-4772-9B4F-A60377C8404D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MLKit.Maui.TextRecognition", "MLKit.Maui.TextRecognition\MLKit.Maui.TextRecognition.csproj", "{500BC79C-9581-4772-9B4F-A60377C8404D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example.App", "Example.App\Example.App.csproj", "{7CDC5465-C165-487A-8DC6-7A0F17319FB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,12 @@ Global
 		{500BC79C-9581-4772-9B4F-A60377C8404D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{500BC79C-9581-4772-9B4F-A60377C8404D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{500BC79C-9581-4772-9B4F-A60377C8404D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CDC5465-C165-487A-8DC6-7A0F17319FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CDC5465-C165-487A-8DC6-7A0F17319FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CDC5465-C165-487A-8DC6-7A0F17319FB4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7CDC5465-C165-487A-8DC6-7A0F17319FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CDC5465-C165-487A-8DC6-7A0F17319FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CDC5465-C165-487A-8DC6-7A0F17319FB4}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
